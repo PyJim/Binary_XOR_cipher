@@ -1,5 +1,5 @@
 
 
-from helper import *
+from binary_xor_cipher import binary_xor_encrypt
 
-start()
+#binary_xor_encrypt()

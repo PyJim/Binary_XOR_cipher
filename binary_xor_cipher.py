@@ -55,7 +55,7 @@ def error():
     """
     return "Invalid key or value"
 
-def start():
+def binary_xor_encrypt():
     """_summary_
        Starts the program and calls the helper functions at appropriate times
     """
